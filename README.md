@@ -51,7 +51,7 @@
     wsl
     ```
 
-    <img src="src/wsl.jpg" width="400"/>
+    <img src="src/wsl.jpg" width="800"/>
 
 ## 탐색기에서 linux 디렉토리 열기
 * wsl로 linux를 실행시킨 상태에서 탐색기를 열어 주소창에 `\\wsl$\`를 입력하게 되면 WSL2가 네트워크 드라이브 형식으로 나온다. 
